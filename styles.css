@@ -81,3 +81,11 @@ body{
 .shop-btn:hover {
   background: linear-gradient(90deg, #444, #666);
 }
+.logo {
+  .logo {
+  width: 50%;
+}
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
