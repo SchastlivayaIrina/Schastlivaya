@@ -83,9 +83,39 @@ body{
 }
 .logo {
   .logo {
-  width: 50%;
+  width: 200px;
 }
   height: auto;
   display: block;
   margin: 20px auto;
+}
+.section {
+  margin: 50px auto;
+  max-width: 800px;
+  padding: 20px;
+  background: linear-gradient(135deg, #f8f8f8, #e0e0e0);
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.section h2 {
+  text-align: center;
+  color: #222;
+  font-size: 1.8em;
+  margin-bottom: 15px;
+}
+
+.section p, .section li {
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 8px 0;
 }
