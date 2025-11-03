@@ -82,7 +82,7 @@ body{
   background: linear-gradient(90deg, #444, #666);
 }
 .logo {
-  width: 200px; /* увеличь число для ещё большего логотипа */
+  width: 100px; /* увеличь число для ещё большего логотипа */
   height: auto;
   display: block;
   margin: 20px auto;
